@@ -7,7 +7,10 @@ This analysis is mainly being conducted to compare 2 months of a year mainly Jun
 
 1. Both the months June and December have around 200 observation for temperature. 
 2. Month of June has a mean of 77.21 deg F with the lowest being 71 deg and the highest being 83 deg. The Std Dev is around 2.62
+
+
 3. The month of December has a mean of 71.13 deg F with lowest being 60 deg and the highest being 78 deg. The Std Dev is around 3.41
+
 
 ## Summary
 
